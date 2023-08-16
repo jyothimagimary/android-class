@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "deptapp"
+rootProject.name = "JSON_2"
 include ':app'
